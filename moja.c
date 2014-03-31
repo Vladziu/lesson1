@@ -33,7 +33,7 @@ void pobieranie ()
 	{
 		printf("%d",a[j]);
 	}
-	printf ("\nNajbardziej znacz¹cy bit ma pozycjê: %d", k)
+	printf ("\nNajbardziej znaczacy bit ma pozycje: %d", k)
 	
 	return 0;
 }
