@@ -1,10 +1,9 @@
 // main
 #include "moja.h"
 
-int main ()
+void main ()
 {
-	printf ("Witaj! Oto lekcja 1: \n");
+	printf ("Witaj! Oto lekcja 1: \n\n");
 	pobieranie();
-	
-	return 0;
+
 }
