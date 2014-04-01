@@ -17,7 +17,7 @@ void pobieranie ()
 	// i tu wyswietla...
 	printf ("Twoja liczba zapisana dziesietnie to: %d\n", liczba);
 	printf ("Twoja liczba zapisana szesnastkowo to: %x\n", liczba);
-	printf("Twoja liczba zapisana dziesietnie to: ");
+	printf("Twoja liczba zapisana binarnie to: ");
 
 	for (c = 31; c >= 0; c--)
 	{
